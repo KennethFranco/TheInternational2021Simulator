@@ -8,3 +8,6 @@ All matches' winners are determined through Python's built in random module. Bot
 
 A win in the upper bracket sends you one round further than a win in the lower bracket would.
 A loss in the upper bracket would send you down to the lower bracket while a loss in the lower bracket would eliminate the team from the tournament.
+
+Each simulation prints out the winner of the tournament and after all simulations are done, the program prints out how many times each team won the entire tournament.
+Lastly, the teams with the most and least wins are printed out respectively, showing their win rates out of the total simulations run.
