@@ -3,3 +3,6 @@
 
 Runs simulations for the entire bracket as seen above, with each simulation producing a winner.
 User can input the number of simulations he/she wishes to see using the first input line of the program.
+
+A win in the upper bracket sends you one round further than a win in the lower bracket would.
+A loss in the upper bracket would send you down to the lower bracket while a loss in the lower bracket would eliminate the team from the tournament.
